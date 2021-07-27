@@ -1,0 +1,4 @@
+all: hello-world-x-win.exe
+
+hello-world-x-win.exe: main-x.cpp
+	g++ -static -o hello-world-x-win.exe main-x.cpp

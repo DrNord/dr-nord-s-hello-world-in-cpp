@@ -7,6 +7,7 @@ The support files will help to understand the project structure relatively to Op
 
 Copyright (C) 2021 Dr. Nord
 
+[![Visits][badge_visits]][repo_readme]
 
 <details>
   <summary> Table of contents </summary>
@@ -85,6 +86,9 @@ Some specified content of the [.gitignore][] file is taken from [C++.gitignore][
 *Inspired by those who strive for everything from nothing.*
 
 Take the time to explore additional files, you may discover useful links there (thanks to its content authors).
+
+[badge_visits]: https://badges.pufler.dev/visits/drnord/dr-nord-s-hello-world-in-cpp/?style=flat&labelColor=002860&color=81E3FF
+[repo_readme]: https://github.com/DrNord/dr-nord-s-hello-world-in-cpp
 
 [Code::Blocks]: https://www.codeblocks.org
 [MinGW-W64]: https://mingw-w64.org
